@@ -10,7 +10,7 @@ while True:
     print("Overwatch遮擋韓國伺服器.exe")
     print("    Made By ss313021490")
     print("")
-    print("Instagram：https://www.instagram.com/hsueh.0214/")
+    print("Github: https://github.com/Bighsueh/OverwatchAvoidKoreaServer")
     print("")
 
     print()
